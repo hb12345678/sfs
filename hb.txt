@@ -1,0 +1,29 @@
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
+public class TestDemo1 {
+	public static void main(String[] args) {
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
+        Calendar calendar = Calendar.getInstance();
+        Date date=null;
+        try {
+        	sdf.setLenient(false);
+            date = sdf.parse("2020-03-27");
+            
+            
+            
+            
+        } catch (Exception e) {
+            System.out.println("&&&&&&&&&&&&");
+        }
+        
+//        calendar.setTime(date);
+//        int day=calendar.get(Calendar.DATE);
+//        //                      此处修改为+1则是获取后一天
+//        calendar.set(Calendar.DATE,day-1);
+// 
+//        String lastDay = sdf.formatWWWWWWWWWWW(calendar.getTime());
+//        System.out.println(lastDay);
+	}
+}
