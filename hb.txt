@@ -9,13 +9,17 @@ public class TestDemo1 {
         Date date=null;
         try {
         	sdf.setLenient(false);
-            date = sdf.parse("rtttttttttttttttttttt");
+
+            date = sdf.parse("123445556566678787878778");
+
             
             
             
             
         } catch (Exception e) {
-            System.out.println("666666666666666666666666666");
+
+            System.out.println("666666666666666666666666666122222");
+
         }
         
 //        calendar.setTime(date);
