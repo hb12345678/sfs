@@ -9,13 +9,13 @@ public class TestDemo1 {
         Date date=null;
         try {
         	sdf.setLenient(false);
-            date = sdf.parse("2020-03-27");
+            date = sdf.parse("1234455565666");
             
             
             
             
         } catch (Exception e) {
-            System.out.println("&&&&&&&&&&&&");
+            System.out.println("88888888888888888888");
         }
         
 //        calendar.setTime(date);
