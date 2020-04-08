@@ -10,7 +10,7 @@ public class TestDemo1 {
         try {
         	sdf.setLenient(false);
 
-            date = sdf.parse("123445556566678787878778");
+            date = sdf.parse("22222222222222222222222");
 
             
             
@@ -28,6 +28,6 @@ public class TestDemo1 {
 //        calendar.set(Calendar.DATE,day-1);
 // 
 //        String lastDay = sdf.formatWWWWWWWWWWW(calendar.getTime());
-//        System.out.println(00000000000000000000000);
+//        System.out.println(QQQQQQQQQQQQQQQQQQ);
 	}
 }
