@@ -1,11 +1,15 @@
 a
 123*12****
+这是我插入的地方1
 c
 d
-this is update place 
+this is update place
+这是我插入的地方 2
 e
 f
 和远程修改的是同一个地方
 adsfsdfvsdvdscvdsfkjhkger
 这是我修改的一行代码
 then i will give it push
+
+这是我插入的地方3
