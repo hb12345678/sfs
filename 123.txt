@@ -1,11 +1,15 @@
 a
+this is mark 1
 123*12****
+这是我插入的地方1
 c
 d
 this is update place 
 e
 f
 和远程修改的是同一个地方
+this is mark 2
 adsfsdfvsdvdscvdsfkjhkger
 这是我修改的一行代码
+this is mark 3
 then i will give it push
